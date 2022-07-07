@@ -1,3 +1,5 @@
 Hello, today I am learning some basic unix commands
 Hello some more text added
-wiuehfwiefuiwe
+
+Hello today is thursday today I am doing to learn more git
+Hello 123
